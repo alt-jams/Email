@@ -238,7 +238,7 @@ public class CadastroFrame extends javax.swing.JFrame {
                     login.setVisible(true);
             
                 }else{//senhas diferentes
-                    JOptionPane.showMessageDialog(this, "Senhas são diferentes!");
+                    JOptionPane.showMessageDialog(this, "As senhas são diferentes!");
                 }
             }else{
                 JOptionPane.showMessageDialog(this, "Esse email já está sendo utilizado!");
